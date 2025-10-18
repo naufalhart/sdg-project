@@ -29,7 +29,7 @@ function Navbar() {
         <button
           id="navToggle"
           onClick={() => setMenuOpen(!menuOpen)}
-          className="ml-auto block sm:hidden text-2xl focus:outline-none"
+          className="ml-auto block sm:hidden text-2xl focus:outline-none dark:text-black"
           aria-expanded={menuOpen}
           aria-controls="mainNav"
         >
