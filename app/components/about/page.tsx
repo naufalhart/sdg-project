@@ -9,7 +9,7 @@ function About() {
           <div className="grid md:grid-cols-2 gap-6 mt-4">
             <div>
               <h3 className="text-xl font-semibold mb-2">Vision</h3>
-              <p>To be a leader in Indonesia's construction industry, with a reputation for excellence in innovation, quality, and customer service.</p>
+              <p>To be a leader in Indonesia&apos;s construction industry, with a reputation for excellence in innovation, quality, and customer service.</p>
             </div>
             <div>
               <h3 className="text-xl font-semibold mb-2">Mission</h3>
