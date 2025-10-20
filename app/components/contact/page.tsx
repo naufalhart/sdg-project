@@ -17,7 +17,7 @@ function Contact() {
               </li>
               <li>
                 <strong>Email 2:</strong>
-                <Link href="mailto:inggoh.hartono@gmail.com" className="text-orange-500 hover:text-orange-800"> inggoh.hartono@gmail.com</Link>
+                <Link href="mailto:pringgo.suryadelima@gmail.com" className="text-orange-500 hover:text-orange-800"> pringgo.suryadelima@gmail.com</Link>
               </li>
             </ul>
           </div>
