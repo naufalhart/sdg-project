@@ -13,7 +13,7 @@ function Contact() {
               <li><strong>Phone:</strong> 0817-737-972</li>
               <li>
                 <strong>Email 1:</strong>
-                <Link href="mailto:pringgo@suryadelima.co.id" className="text-orange-500 hover:text-orange-800"> pringgo@suryadelima.co.id</Link>
+                <Link href="mailto:pringgo@suryadelima.id" className="text-orange-500 hover:text-orange-800"> pringgo@suryadelima.id</Link>
               </li>
               <li>
                 <strong>Email 2:</strong>
