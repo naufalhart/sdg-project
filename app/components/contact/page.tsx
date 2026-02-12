@@ -8,9 +8,9 @@ function Contact() {
           <div>
             <h2 className="text-2xl font-bold mb-3 dark:text-black">Contact Us</h2>
             <ul className="space-y-2 text-gray-700">
-              <li><strong>Address:</strong> Ruko Taman Sriwedari...</li>
-              <li><strong>Workshop:</strong> Jl Pringgondani VIII...</li>
-              <li><strong>Phone:</strong> 0817-737-972</li>
+              <li><strong>Address: </strong>Puri Sriwedari blok L6</li>
+              <li><strong>Workshop: </strong>Jl Pringgondani VIII</li>
+              <li><strong>Phone: </strong>0817-737-972</li>
               <li>
                 <strong>Email 1:</strong>
                 <Link href="mailto:pringgo@suryadelima.id" className="text-orange-500 hover:text-orange-800"> pringgo@suryadelima.id</Link>
